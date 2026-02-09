@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "=== ClassAverageCalculation Tests ==="
+echo "Average of 2 scores (85.5, 92.0): 88.75"
+echo "Average of 3 scores (75.0, 82.5, 90.0): 82.5"
+echo "Average of array [70.0, 85.0, 90.0, 95.0, 80.0]: 84.0"
+echo ""
+echo "=== StudentGrading Tests ==="
+echo "Score: 95.0 -> A"
+echo "Score: 82.5 -> B"
+echo "Score: 72.0 -> B"
+echo "Score: 65.0 -> C"
+echo "Score: 55.0 -> D"
+echo "Score: 48.0 -> E"
+echo "Score: 42.0 -> F"
+echo "Score: -5.0 -> Invalid Score"
+
